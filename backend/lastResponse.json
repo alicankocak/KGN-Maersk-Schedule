@@ -1,0 +1,4035 @@
+[
+  {
+    "location": {
+      "locationName": "Gemport Terminal - Gemlik",
+      "UNLocationCode": "TRGEM",
+      "facilitySMDGCode": "GEMPOR"
+    },
+    "vesselSchedules": [
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "543N",
+            "carrierExportVoyageNumber": "543N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9627904",
+          "name": "Traiguen",
+          "flag": "LR",
+          "callSign": "D5EP4",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-02T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-10-30T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-02T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-10-30T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "543E",
+            "carrierExportVoyageNumber": "544W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9219381",
+          "name": "LODUR",
+          "flag": "AG",
+          "callSign": "V2CY",
+          "operatorCarrierCode": "CMA",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-02T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-02T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-03T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-03T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "543A",
+            "carrierExportVoyageNumber": "544R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9225794",
+          "name": "MED SAMSUN",
+          "flag": "TR",
+          "callSign": "TCA4735",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-02T15:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-10-30T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-03T07:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-10-31T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "599E",
+            "carrierExportVoyageNumber": "5A1N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-03T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-03T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-04T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-04T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "544N",
+            "carrierExportVoyageNumber": "544N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448786",
+          "name": "COSCO INDONESIA",
+          "flag": "SG",
+          "callSign": "9VMV9",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-06T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-06T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-06T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-06T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5A2S",
+            "carrierExportVoyageNumber": "5A3W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-07T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-07T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-07T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-07T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "544A",
+            "carrierExportVoyageNumber": "545R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9141780",
+          "name": "MED TRABZON",
+          "flag": "TR",
+          "callSign": "TCA6908",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-07T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-06T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-08T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-07T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "544E",
+            "carrierExportVoyageNumber": "545W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9303807",
+          "name": "STANLEY A",
+          "flag": "MT",
+          "callSign": "9HA3946",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-09T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-09T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-10T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-10T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5A4E",
+            "carrierExportVoyageNumber": "5A5N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-10T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-10T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-11T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-11T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "542S",
+            "carrierExportVoyageNumber": "545N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9450404",
+          "name": "SOFIA EXPRESS",
+          "flag": "LR",
+          "callSign": "5LQE3",
+          "operatorCarrierCode": "HLC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-13T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-13T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-13T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-13T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5A6S",
+            "carrierExportVoyageNumber": "5A7W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-14T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-14T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-14T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-14T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "545E",
+            "carrierExportVoyageNumber": "546W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9320142",
+          "name": "Elisabeth P.",
+          "flag": "MH",
+          "callSign": "V7A4670",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-16T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-16T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-17T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-17T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "545A",
+            "carrierExportVoyageNumber": "546R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9225794",
+          "name": "MED SAMSUN",
+          "flag": "TR",
+          "callSign": "TCA4735",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-17T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-13T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-18T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-14T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5A8E",
+            "carrierExportVoyageNumber": "5A9N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-17T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-17T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-18T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-18T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "543S",
+            "carrierExportVoyageNumber": "546N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9215311",
+          "name": "W KAMPALA",
+          "flag": "MH",
+          "callSign": "V7A4350",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-20T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-20T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-20T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-20T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5B1S",
+            "carrierExportVoyageNumber": "5B2W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-21T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-21T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-21T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-21T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "546A",
+            "carrierExportVoyageNumber": "547R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9141780",
+          "name": "MED TRABZON",
+          "flag": "TR",
+          "callSign": "TCA6908",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-21T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-20T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-22T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-21T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "546E",
+            "carrierExportVoyageNumber": "547W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9219381",
+          "name": "LODUR",
+          "flag": "AG",
+          "callSign": "V2CY",
+          "operatorCarrierCode": "CMA",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-23T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-23T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-24T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-24T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5B3E",
+            "carrierExportVoyageNumber": "5B4N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-24T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-24T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-25T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-25T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "545S",
+            "carrierExportVoyageNumber": "547N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448748",
+          "name": "COSCO JAPAN",
+          "flag": "SG",
+          "callSign": "9VMV5",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-27T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-27T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-27T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-27T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5B5S",
+            "carrierExportVoyageNumber": "5B6W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-28T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-28T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-28T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-28T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "547E",
+            "carrierExportVoyageNumber": "548W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9303807",
+          "name": "STANLEY A",
+          "flag": "MT",
+          "callSign": "9HA3946",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-30T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-30T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-01T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-01T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "547A",
+            "carrierExportVoyageNumber": "548R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9225794",
+          "name": "MED SAMSUN",
+          "flag": "TR",
+          "callSign": "TCA4735",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-01T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-27T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-02T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-28T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5B7E",
+            "carrierExportVoyageNumber": "5B8N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-01T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-01T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-02T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-02T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "546S",
+            "carrierExportVoyageNumber": "548N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9627904",
+          "name": "Traiguen",
+          "flag": "LR",
+          "callSign": "D5EP4",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-04T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-04T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-04T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-04T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5B9S",
+            "carrierExportVoyageNumber": "5C1W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-05T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-05T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-05T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-05T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "548A",
+            "carrierExportVoyageNumber": "549R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9141780",
+          "name": "MED TRABZON",
+          "flag": "TR",
+          "callSign": "TCA6908",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-05T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-04T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-06T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-05T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "548E",
+            "carrierExportVoyageNumber": "549W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9320142",
+          "name": "Elisabeth P.",
+          "flag": "MH",
+          "callSign": "V7A4670",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-07T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-07T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-08T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-08T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5C2E",
+            "carrierExportVoyageNumber": "5C3N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-08T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-08T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-09T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-09T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "547S",
+            "carrierExportVoyageNumber": "549N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448786",
+          "name": "COSCO INDONESIA",
+          "flag": "SG",
+          "callSign": "9VMV9",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-11T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-11T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-11T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-11T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5C4S",
+            "carrierExportVoyageNumber": "5C5W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-12T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-12T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-12T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-12T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "549E",
+            "carrierExportVoyageNumber": "550W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9219381",
+          "name": "LODUR",
+          "flag": "AG",
+          "callSign": "V2CY",
+          "operatorCarrierCode": "CMA",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-14T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-14T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-15T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-15T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "549A",
+            "carrierExportVoyageNumber": "550R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9225794",
+          "name": "MED SAMSUN",
+          "flag": "TR",
+          "callSign": "TCA4735",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-15T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-11T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-16T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-12T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5C6E",
+            "carrierExportVoyageNumber": "5C7N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-15T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-15T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-16T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-16T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "548S",
+            "carrierExportVoyageNumber": "550N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9450404",
+          "name": "SOFIA EXPRESS",
+          "flag": "LR",
+          "callSign": "5LQE3",
+          "operatorCarrierCode": "HLC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-18T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-18T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-18T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-18T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5C8S",
+            "carrierExportVoyageNumber": "5C9W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-19T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-19T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-19T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-19T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "ADRIATIC SEA B",
+            "carrierServiceCode": "SLJ",
+            "carrierImportVoyageNumber": "550A",
+            "carrierExportVoyageNumber": "551R"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9141780",
+          "name": "MED TRABZON",
+          "flag": "TR",
+          "callSign": "TCA6908",
+          "operatorCarrierCode": "MSC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-19T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-18T16:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-20T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-19T08:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "550E",
+            "carrierExportVoyageNumber": "551W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9303807",
+          "name": "STANLEY A",
+          "flag": "MT",
+          "callSign": "9HA3946",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-21T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-21T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-22T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-22T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5D1E",
+            "carrierExportVoyageNumber": "5D2N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-22T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-22T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-23T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-23T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "549S",
+            "carrierExportVoyageNumber": "551N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9215311",
+          "name": "W KAMPALA",
+          "flag": "MH",
+          "callSign": "V7A4350",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-25T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-25T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-25T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-25T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5D3S",
+            "carrierExportVoyageNumber": "5D4W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-26T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-26T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-26T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-26T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "551E",
+            "carrierExportVoyageNumber": "552W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9320142",
+          "name": "Elisabeth P.",
+          "flag": "MH",
+          "callSign": "V7A4670",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-28T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-28T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-29T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-29T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5D5E",
+            "carrierExportVoyageNumber": "5D6N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-29T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-29T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-30T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-30T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "550S",
+            "carrierExportVoyageNumber": "552N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448748",
+          "name": "COSCO JAPAN",
+          "flag": "SG",
+          "callSign": "9VMV5",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-01T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-01T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-01T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-01T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5D7S",
+            "carrierExportVoyageNumber": "5D8W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-02T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-02T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-02T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-02T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "552E",
+            "carrierExportVoyageNumber": "601W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9219381",
+          "name": "LODUR",
+          "flag": "AG",
+          "callSign": "V2CY",
+          "operatorCarrierCode": "CMA",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-04T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-04T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-05T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-05T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5D9E",
+            "carrierExportVoyageNumber": "5E1N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-05T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-05T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-06T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-06T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "551S",
+            "carrierExportVoyageNumber": "601N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9627904",
+          "name": "Traiguen",
+          "flag": "LR",
+          "callSign": "D5EP4",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-08T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-08T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-08T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-08T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5E2S",
+            "carrierExportVoyageNumber": "5E3W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-09T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-09T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-09T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-09T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "601E",
+            "carrierExportVoyageNumber": "601E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9303807",
+          "name": "STANLEY A",
+          "flag": "MT",
+          "callSign": "9HA3946",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-11T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-11T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-12T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-12T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5E4E",
+            "carrierExportVoyageNumber": "5E5N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-12T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-12T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-13T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-13T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "552S",
+            "carrierExportVoyageNumber": "602N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448786",
+          "name": "COSCO INDONESIA",
+          "flag": "SG",
+          "callSign": "9VMV9",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-15T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-15T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-15T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-15T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5E6S",
+            "carrierExportVoyageNumber": "5E7W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-16T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-16T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-16T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-16T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "602E",
+            "carrierExportVoyageNumber": "602E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9320142",
+          "name": "Elisabeth P.",
+          "flag": "MH",
+          "callSign": "V7A4670",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-18T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-18T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-19T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-19T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5E8E",
+            "carrierExportVoyageNumber": "5E9N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-19T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-19T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-20T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-20T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "601S",
+            "carrierExportVoyageNumber": "603N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9450404",
+          "name": "SOFIA EXPRESS",
+          "flag": "LR",
+          "callSign": "5LQE3",
+          "operatorCarrierCode": "HLC",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-22T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-22T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-22T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-22T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5F1S",
+            "carrierExportVoyageNumber": "5F2W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-23T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-23T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-23T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-23T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA",
+            "carrierServiceCode": "SLR",
+            "carrierImportVoyageNumber": "603E",
+            "carrierExportVoyageNumber": "603E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9219381",
+          "name": "LODUR",
+          "flag": "AG",
+          "callSign": "V2CY",
+          "operatorCarrierCode": "CMA",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-25T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-25T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-26T01:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-26T01:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5F3E",
+            "carrierExportVoyageNumber": "5F4N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-26T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-26T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-27T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-27T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "602S",
+            "carrierExportVoyageNumber": "604N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9215311",
+          "name": "W KAMPALA",
+          "flag": "MH",
+          "callSign": "V7A4350",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-29T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-29T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-29T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-29T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5F5S",
+            "carrierExportVoyageNumber": "5F6W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-30T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-30T09:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-30T21:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-30T21:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "Z88 GEMLIK SHUTTLE",
+            "carrierServiceCode": "Z88",
+            "carrierImportVoyageNumber": "5F7E",
+            "carrierExportVoyageNumber": "5F7E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9073892",
+          "name": "MEDKON ISIK",
+          "flag": "TR",
+          "callSign": "TCA6807",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-02T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-02T22:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-03T10:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-03T10:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "603S",
+            "carrierExportVoyageNumber": "605N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448748",
+          "name": "COSCO JAPAN",
+          "flag": "SG",
+          "callSign": "9VMV5",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-05T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-05T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-05T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-05T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "604S",
+            "carrierExportVoyageNumber": "606N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9627904",
+          "name": "Traiguen",
+          "flag": "LR",
+          "callSign": "D5EP4",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-12T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-12T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-12T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-12T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "605S",
+            "carrierExportVoyageNumber": "607N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448786",
+          "name": "COSCO INDONESIA",
+          "flag": "SG",
+          "callSign": "9VMV9",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-19T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-19T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-19T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-19T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "607S",
+            "carrierExportVoyageNumber": "609N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9215311",
+          "name": "W KAMPALA",
+          "flag": "MH",
+          "callSign": "V7A4350",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-05T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-05T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-05T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-05T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "608S",
+            "carrierExportVoyageNumber": "610N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448748",
+          "name": "COSCO JAPAN",
+          "flag": "SG",
+          "callSign": "9VMV5",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-12T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-12T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-12T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-12T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "609S",
+            "carrierExportVoyageNumber": "611N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9627904",
+          "name": "Traiguen",
+          "flag": "LR",
+          "callSign": "D5EP4",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-19T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-19T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-19T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-19T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "610S",
+            "carrierExportVoyageNumber": "612N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448786",
+          "name": "COSCO INDONESIA",
+          "flag": "SG",
+          "callSign": "9VMV9",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-26T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-26T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-26T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-26T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "612S",
+            "carrierExportVoyageNumber": "614N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9215311",
+          "name": "W KAMPALA",
+          "flag": "MH",
+          "callSign": "V7A4350",
+          "operatorCarrierCode": "MSK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-09T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-09T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-09T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-09T20:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "AEGEAN SEA",
+            "carrierServiceCode": "SLC",
+            "carrierImportVoyageNumber": "613S",
+            "carrierExportVoyageNumber": "615N"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9448748",
+          "name": "COSCO JAPAN",
+          "flag": "SG",
+          "callSign": "9VMV5",
+          "operatorCarrierCode": "COS",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-16T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-16T04:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-16T20:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-16T20:00:00+03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": {
+      "locationName": "Roda Terminal - Gemlik",
+      "UNLocationCode": "TRGEM",
+      "facilitySMDGCode": "RODA"
+    },
+    "vesselSchedules": [
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "545E",
+            "carrierExportVoyageNumber": "546W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-13T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-13T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-13T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-13T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "546E",
+            "carrierExportVoyageNumber": "546W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-17T06:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-17T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-18T17:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-18T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "547E",
+            "carrierExportVoyageNumber": "548W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-27T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-27T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-11-27T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-11-27T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "548E",
+            "carrierExportVoyageNumber": "549W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-04T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-04T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-04T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-04T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "549E",
+            "carrierExportVoyageNumber": "550W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-11T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-11T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-11T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-11T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "550E",
+            "carrierExportVoyageNumber": "551W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-18T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-18T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-18T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-18T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "551E",
+            "carrierExportVoyageNumber": "552W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-25T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-25T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2025-12-25T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2025-12-25T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "552E",
+            "carrierExportVoyageNumber": "601W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-01T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-01T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-01T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-01T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "601E",
+            "carrierExportVoyageNumber": "602W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-08T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-08T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-08T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-08T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "602E",
+            "carrierExportVoyageNumber": "603W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-15T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-15T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-15T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-15T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "603E",
+            "carrierExportVoyageNumber": "604W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-22T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-22T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-22T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-22T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "604E",
+            "carrierExportVoyageNumber": "605W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-29T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-29T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-01-29T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-01-29T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "605E",
+            "carrierExportVoyageNumber": "606W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-05T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-05T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-05T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-05T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "606E",
+            "carrierExportVoyageNumber": "607W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-12T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-12T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-12T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-12T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "607E",
+            "carrierExportVoyageNumber": "608W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-19T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-19T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-19T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-19T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "608E",
+            "carrierExportVoyageNumber": "609W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-26T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-26T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-02-26T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-02-26T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "609E",
+            "carrierExportVoyageNumber": "610W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-05T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-05T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-05T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-05T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "610E",
+            "carrierExportVoyageNumber": "611W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-12T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-12T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-12T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-12T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "611E",
+            "carrierExportVoyageNumber": "612W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-19T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-19T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-19T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-19T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "612E",
+            "carrierExportVoyageNumber": "613W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-26T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-26T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-03-26T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-03-26T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "613E",
+            "carrierExportVoyageNumber": "614W"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-02T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-02T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-02T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-02T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "614E",
+            "carrierExportVoyageNumber": "614E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9242297",
+          "name": "LUCIENG GA",
+          "flag": "TR",
+          "callSign": "TCCA9",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-09T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-09T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-09T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-09T19:00:00+03:00"
+          }
+        ]
+      },
+      {
+        "servicePartners": [
+          {
+            "carrierCode": "MAEU",
+            "carrierCodeListProvider": "NMFTA",
+            "carrierServiceName": "MARMARA SEA B",
+            "carrierServiceCode": "SLO",
+            "carrierImportVoyageNumber": "615E",
+            "carrierExportVoyageNumber": "615E"
+          }
+        ],
+        "vessel": {
+          "vesselIMONumber": "9415947",
+          "name": "WANDA A",
+          "flag": "MT",
+          "callSign": "9HA5447",
+          "operatorCarrierCode": "ARK",
+          "operatorCarrierCodeListProvider": "SMDG"
+        },
+        "isDummyVessel": false,
+        "timestamps": [
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-16T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "ARRI",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-16T08:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "EST",
+            "eventDateTime": "2026-04-16T19:00:00+03:00"
+          },
+          {
+            "eventTypeCode": "DEPA",
+            "eventClassifierCode": "PLN",
+            "eventDateTime": "2026-04-16T19:00:00+03:00"
+          }
+        ]
+      }
+    ]
+  }
+]
