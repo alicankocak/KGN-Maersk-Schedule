@@ -30,6 +30,10 @@ import {
   DialogFooter,
 } from "@/components/ui/dialog";
 
+// 🔧 Environment-aware backend URL
+const API_URL =
+  process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
+
 interface Timestamp {
   eventTypeCode: string;
   eventDateTime: string;
@@ -63,18 +67,19 @@ export default function SearchBookingPage() {
   const [showModal, setShowModal] = useState(false);
   const pageSize = 10;
 
-  // Debounce (500ms)
+  // 🔁 Debounce search input (500ms)
   useEffect(() => {
     const handler = setTimeout(() => setDebouncedTerm(searchTerm), 500);
     return () => clearTimeout(handler);
   }, [searchTerm]);
 
+  // 📡 Fetch schedules
   const searchSchedules = async () => {
     try {
       setLoading(true);
       setError(null);
       const res = await fetch(
-        `http://localhost:4000/api/schedules?UNLocationCode=${port}&date=${date}`
+        `${API_URL}/api/schedules?UNLocationCode=${port}&date=${date}`
       );
       const data = await res.json();
 
@@ -93,6 +98,7 @@ export default function SearchBookingPage() {
     }
   };
 
+  // 🧩 Flatten + sort + filter data
   const flattenedData = useMemo(() => {
     const rows: any[] = [];
     schedules.forEach((loc) => {
@@ -191,7 +197,7 @@ export default function SearchBookingPage() {
             )}
           </Button>
           <a
-            href={`http://localhost:4000/api/schedules/excel?UNLocationCode=${port}&date=${date}`}
+            href={`${API_URL}/api/schedules/excel?UNLocationCode=${port}&date=${date}`}
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -36,14 +36,14 @@ app.get("/api/schedules/excel", async (req, res) => {
 
 app.post("/api/send-weekly", async (req, res) => {
   try {
-    const data = await getSchedules();
-    const file = await createExcel(data);
-    await sendMail(file);
-    res.json({ success: true });
-  } catch (e) {
-    res.status(500).json({ error: e.message });
+    const { emails } = req.body;
+    await sendMail(emails);
+    res.json({ success: true, message: "Email sent successfully" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 });
+
 
 initCron();
 app.listen(process.env.PORT, () => {

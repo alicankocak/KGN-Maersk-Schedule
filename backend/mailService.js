@@ -2,7 +2,7 @@ import nodemailer from "nodemailer";
 import fs from "fs";
 import path from "path";
 
-export async function sendMail() {
+export async function sendMail(recipientEmails) {
   const exportDir = path.join(process.cwd(), "exports");
 
   // 📂 export klasöründeki en son oluşturulmuş dosyayı bul
@@ -19,6 +19,12 @@ export async function sendMail() {
 
   const filePath = path.join(exportDir, latestFile);
 
+  // 🧾 Alıcı e-postalarını kontrol et
+  const recipients = recipientEmails || process.env.MAIL_TO;
+  if (!recipients || recipients.trim() === "") {
+    throw new Error("No recipient emails specified (MAIL_TO or request parameter missing).");
+  }
+
   // 📧 Mail transporter (Gmail App Password kullanıyoruz)
   const transporter = nodemailer.createTransport({
     service: "gmail",
@@ -31,7 +37,7 @@ export async function sendMail() {
   // 📩 Mail ayarları
   const mailOptions = {
     from: process.env.GMAIL_USER,
-    to: process.env.MAIL_TO,
+    to: recipients, // artık parametreden veya env'den geliyor
     subject: process.env.MAIL_SUBJECT || "Weekly Schedule Report",
     text: process.env.MAIL_BODY || "Attached is the latest schedule report.",
     attachments: [
@@ -42,7 +48,8 @@ export async function sendMail() {
     ],
   };
 
-  console.log("📨 Preparing to send email with attachment:", latestFile);
+  console.log(`📨 Preparing to send email to: ${recipients}`);
+  console.log(`📎 Attachment: ${latestFile}`);
 
   try {
     const info = await transporter.sendMail(mailOptions);

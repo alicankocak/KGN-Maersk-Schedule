@@ -8,7 +8,7 @@ export default function ManageBooking() {
 
   const [day, setDay] = useState("Monday")
   const [time, setTime] = useState("09:00")
-  const [emails, setEmails] = useState("alicankck89@gmail.com, meltemkocak.uk@gmail.com")
+  const [emails, setEmails] = useState("")
   const [lastSent, setLastSent] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
 
@@ -45,24 +45,27 @@ export default function ManageBooking() {
   }
 
   // Send email immediately
-  const sendNow = async () => {
-    setLoading(true)
-    try {
-      const res = await fetch("http://localhost:4000/api/send-weekly", { method: "POST" })
-      if (res.ok) {
-        const now = new Date().toLocaleString()
-        setLastSent(now)
-        localStorage.setItem("lastSent", now)
-        toast({ title: "Email sent", description: `Report sent successfully at ${now}` })
-      } else {
-        throw new Error("Email send failed.")
-      }
-    } catch (err) {
-      toast({ title: "Error", description: (err as Error).message, variant: "error" })
-    } finally {
-      setLoading(false)
-    }
+const sendNow = async () => {
+  setLoading(true);
+  try {
+    const res = await fetch("http://localhost:4000/api/send-weekly", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ emails }),
+    });
+    if (res.ok) {
+      const now = new Date().toLocaleString();
+      setLastSent(now);
+      localStorage.setItem("lastSent", now);
+      toast({ title: "Email sent", description: `Report sent successfully at ${now}` });
+    } else throw new Error("Email send failed");
+  } catch (err) {
+    toast({ title: "Error", description: (err as Error).message });
+  } finally {
+    setLoading(false);
   }
+};
+
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-zinc-50 dark:bg-zinc-950 p-6">
